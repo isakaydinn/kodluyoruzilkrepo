@@ -16,4 +16,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # License
 MIT 
 
-![Görsel](https://tr.wikipedia.org/wiki/Dosya:Galatasaray_Sports_Club_Logo.png)
+![lorem picsum Görsel](https://picsum.photos/200/300)
