@@ -2,7 +2,8 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
-- https://github.com/isakaydinn/kodluyoruzilkrepo.git
+- öncelikle projenizi klonlayın  
+- git clone https://github.com/isakaydinn/kodluyoruzilkrepo.git
 
 # Usage 
 - projeyi klonlayın 
@@ -14,3 +15,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # License
 - MIT 
+
+![Görsel](https://tr.wikipedia.org/wiki/Dosya:Galatasaray_Sports_Club_Logo.png)
