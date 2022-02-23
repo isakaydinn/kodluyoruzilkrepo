@@ -14,6 +14,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 * büyük değişiklikler öncesi lütfen neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
-- MIT 
+MIT 
 
 ![Görsel](https://tr.wikipedia.org/wiki/Dosya:Galatasaray_Sports_Club_Logo.png)
